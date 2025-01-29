@@ -13,12 +13,12 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 
 
 
-<img src='./Code for Earth logo (ECMWF).png ' alt='ESoWC 2022' align='left' width='60%'></img>
+<img src='./Code for Earth logo (ECMWF).png ' alt='ESoWC 2022' align='left' width='45%'></img>
 
 <br>
 
-### Curious about the new challenges in 2025? 
-### They will be on air on 17 February. Stay tuned!
+### Curious about the challenges in 2025? 
+### They will be on air on 17 Feb. Stay tuned!
 
 <br>
 
