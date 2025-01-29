@@ -18,7 +18,7 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 <br>
 
 ### Curious about the challenges in 2025? 
-### They will be on air on 17 Feb. Stay tuned!
+### They will be live on 17 Feb -stay tuned!
 
 <br>
 
