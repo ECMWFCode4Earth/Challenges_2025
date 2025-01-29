@@ -13,7 +13,7 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 
 
 
-<img src='./Code for Earth logo (ECMWF).png ' alt='ESoWC 2022' align='left' width='53%'></img>
+<img src='./Code for Earth logo (ECMWF).png ' alt='ESoWC 2022' align='left' width='52%'></img>
 
 <br>
 
