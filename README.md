@@ -21,18 +21,21 @@ They will be live on 17 Feb -stay tuned!
 ### 1. Call for Participation: 17 Feb - 01 Apr 2025
 Browse through the Code for Earth 2025 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 01 April 2025. Links coming soon! 
 
+<br>
 
 <img src='./LB Phase 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 2. Announcement of selected proposals: 29 Apr 2025
 The Code for Earth 2025 teams will be announced on 29 April 2025. You can follow Code for Earth on [Linkedln](https://www.linkedin.com/company/ecmwf-code-for-earth) and subscribe to the newsletter to get all updates.
 
+<br>
 
 <img src='./LB Phase 3.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 3. Coding phase: 02 May  - 31 Aug 2025
 The four-month long coding period starts on 02 May 2025 and ends on 31 August 2025. During this time, the selected teams will work with their Code for Earth mentors. These are experts in earth sciences like weather, climate and climate change, atmosphere and air quality or in technology areas like AI/ML, cloud computing, applied data science or open source software development.
 
+<br>
 
 <img src='./LB Phase 4.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
@@ -40,6 +43,7 @@ The four-month long coding period starts on 02 May 2025 and ends on 31 August 20
 The Code for Earth Day is a celebratory completion of the programme. This year the event will be hosted at ECMWF's headquarters in Bologna, Italy.
 Teams will be invited to present their project results.
 
+<br>
 
 Successfully completed projects will receive a €5,000 stipend.
 
