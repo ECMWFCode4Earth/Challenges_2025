@@ -39,7 +39,7 @@ The four-month long coding period starts on 02 May 2025 and ends on 31 August 20
 
 <img src='./LB Phase 4.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
-### 4. Final Code for Earth day: 18 September 2025
+### 4. Final Code for Earth day: 16 September 2025
 The Code for Earth Day is a celebratory completion of the programme. This year the event will be hosted at ECMWF's headquarters in Bologna, Italy.
 Teams will be invited to present their project results.
 
