@@ -16,6 +16,8 @@ They will be live on 17 Feb -stay tuned!
 
 ## Browse the roadmap here below!
 
+<img src='./LB Phase 1.png ' alt='ESoWC 2022' align='left' width='6%'></img>
+
 ### 1. Call for Participation: 17 Feb - 01 Apr 2025
 Browse through the Code for Earth 2025 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 01 April 2025. Links coming soon! 
 
