@@ -7,12 +7,42 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 
 <br>
 
-## Code for Earth Challenges
+## Challenges 2025
 
-Curious about the challenges in 2025? 
-They will be live on 17 Feb -stay tuned!
+There are three challenge streams:
+
+### [Stream 1 - Data Visualization for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Data%20Visualization%22)
 
 <br>
+
+* [Challenge 10 - PolyView](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/1)
+* [Challenge 11 - EarthReach: making Earthkit plots accessible to the visually impaired with LLM-powered alt descriptions](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/2)
+* [Challenge 12 - ObsFinder: An interactive geo-selector for C3S observation data](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/4)
+* [Challenge 13 - PyroScope](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/6)
+* [Challenge 14 - GPU-accelerated interactive visualization of atmospheric composition forecasts](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/8)
+
+<br>
+
+### [Stream 2 - Machine Learning for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=state%3Aopen%20label%3A%22Machine%20Learning%22)
+
+<br>
+
+* [Challenge 20 - DSS MLCosting for requests](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/12)
+* [Challenge 21 - ML-Driven Downscaling of Global Air Pollution Fields](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/13)
+
+<br>
+
+### [Stream 3 - Software Development for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=state%3Aopen%20label%3A%22Software%20Development%22) 
+
+<br>
+
+* [Challenge 30 - EVALKIT: A unified tool for diagnosing forecast errors in IFS, ML Models, and high-resolution simulations](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/3)
+* [Challenge 31 - PolyShell](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/5)
+* [Challenge 32 - ECMWF Open Data Explorer](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/7)
+* [Challenge 33 - Data Stores plug-in for GIS](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/11)
+
+<br>
+
 
 ## Browse the roadmap here below!
 
