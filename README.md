@@ -40,6 +40,7 @@ There are three challenge streams:
 * [Challenge 31 - PolyShell](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/5)
 * [Challenge 32 - ECMWF Open Data Explorer](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/7)
 * [Challenge 33 - Data Stores plug-in for GIS](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/11)
+* [Challenge 34 - FireFlux: FRP-based emission calibration from small satellite constellations for emission estimation](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/10)
 
 <br>
 
