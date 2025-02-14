@@ -42,7 +42,7 @@ There are three challenge streams:
 * [Challenge 32 - ECMWF Open Data Explorer](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/7)
 * [Challenge 33 - Data Stores plug-in for GIS](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/11)
 * [Challenge 34 - FireFlux: FRP-based emission calibration from small satellite constellations for emission estimation](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/10)
-* [Challenge 335 - Developing a Machine Learning-Based weather/climate Index for Compound Event Prediction in Renewable Energy Systems](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/14)
+* [Challenge 35 - Developing a Machine Learning-Based weather/climate Index for Compound Event Prediction in Renewable Energy Systems](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/14)
 
 <br>
 
