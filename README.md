@@ -29,6 +29,7 @@ There are three challenge streams:
 
 * [Challenge 20 - DSS MLCosting for requests](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/12)
 * [Challenge 21 - ML-Driven Downscaling of Global Air Pollution Fields](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/13)
+* [Challenge 22 - Physical consistency in multi-variate Machine Learning applications for the Earth System](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/9)
 
 <br>
 
