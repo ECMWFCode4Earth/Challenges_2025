@@ -85,6 +85,7 @@ Successfully completed projects will receive a €5,000 stipend.
 
 ## Important links
 * [Submit your proposal for the 2025 edition of Code for Earth!](https://codeforearth.ecmwf.int/code-for-earth-submission-for-proposal/)
+* [Code for Earth website](https://codeforearth.ecmwf.int)
 * [Code for Earth Terms & Conditions](https://codeforearth.ecmwf.int/terms-of-use/)
 * [Code for Earth Frequently Asked Questions](https://codeforearth.ecmwf.int/faqs/)
 * Follow Code for Earth on [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
