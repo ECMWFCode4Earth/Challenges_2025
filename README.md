@@ -20,6 +20,7 @@ There are three challenge streams:
 * [Challenge 12 - ObsFinder: An interactive geo-selector for C3S observation data](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/4)
 * [Challenge 13 - PyroScope](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/6)
 * [Challenge 14 - GPU-accelerated interactive visualization of atmospheric composition forecasts](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/8)
+* [Challenge 15 - EU Climate Related Power System Challenges](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/15)
 
 <br>
 
