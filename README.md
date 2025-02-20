@@ -60,7 +60,7 @@ Browse through the Code for Earth 2025 challenges and ask questions. Together wi
 <img src='./LB Phase 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 2. Announcement of selected proposals: 29 Apr 2025
-The Code for Earth 2025 teams will be announced on 29 April 2025. You can follow Code for Earth on [Linkedln](https://www.linkedin.com/company/ecmwf-code-for-earth) and subscribe to the newsletter to get all updates.
+The Code for Earth 2025 teams will be announced on 29 April 2025. You can follow Code for Earth on [Linkedln](https://www.linkedin.com/company/ecmwf-code-for-earth) and [Bluesky](https://bsky.app/profile/codeforearth.bsky.social) and subscribe to the newsletter to get all updates.
 
 <br>
 
