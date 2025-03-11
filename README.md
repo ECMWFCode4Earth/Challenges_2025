@@ -54,7 +54,10 @@ There are three challenge streams:
 <img src='./LB Phase 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 1. Call for Participation: 17 Feb - 01 Apr 2025
-Browse through the Code for Earth 2025 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 01 April 2025. For eligibility of participation, please check the [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions).
+Browse through the Code for Earth 2025 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 01 April 2025. For eligibility of participation, please check the [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions). 
+
+📅 **Q&A Webinar – 13 March, 11:00-11:45 CET & 19 March, 15:00-15:45 CET** – Get insights & tips on crafting a winning proposal – [register on our website](https://codeforearth.ecmwf.int/qa-webinars/).
+
 
 
 <br>
