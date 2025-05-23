@@ -8,45 +8,30 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 <br>
 
-## Challenges 2025
 
-There are three challenge streams:
 
-### [Stream 1 - Data Visualization for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Data%20Visualization%22)
+## Code for Earth 2025 Projects
+Congratulations to the teams that have been selected to be part of Code for Earth 2025:
 
-<br>
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| [**PolyView Navigator: Interactive Visualisation of Hydrometeorological Phenomena**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/1) | [Daniel O’Brien] | [Mathilde Leuridan](https://github.com/mathleur) <br> [Adam Warde](https://github.com/awarde96) <br> Antonino Bonanni <br> Oisin Morrison <br> Clara Ducher <br> Harrison Cook |
+| [**PolyShell**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/5)) | Niall Oswald <br> Kenneth Martin <br> Miriam North Ridao <br> Jo Wayne Tan | [Mathilde Leuridan](https://github.com/mathleur) <br> [Adam Warde](https://github.com/awarde96) <br> Oisin Morrison |
+| [**AI4AirQuality: High-Resolution Air Pollution Downscaling**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/13) | [Kevin Monsalvez-Pozo]  <br> [Marcos Martinez-Roig] <br> [Nuria P. Plaza-Martín]  <br> [Víctor Galván Fraile] <br> [Francisco Granell-Haro] | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Martin Ramacher](https://github.com/martinottopaul) <br> Johannes Bieser <br> [Johannes Flemming](https://github.com/JohannesFlemming)  <br> Paula Harder |
+| [**EarthReach Agent: Dual-LLM Framework for Validated Meteorological Chart Descriptions**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/2) | Romain Bazin | [Mathilde Leuridan](https://github.com/mathleur) <br> Oisin Morrison <br> Clara Ducher <br> Harrison Cook <br> Helen Theissen |
+| [**MLCosting**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/12) |  [Quốc Việt NGUYỄN](https://github.com/Viet1004) <br> [NGÔ Đức Thịnh](https://github.com/thinhngo-x)  <br> [VŨ Thị Hải Yến](https://github.com/haiyenvu96) <br> [ĐÀO Nhật Minh](https://github.com/nhatminh-96) <br> [PHẠM Vũ Hoàng Anh](https://github.com/HoangAnhP) |  [Angel Lopez Alos](https://github.com/orgs/ECMWFCode4Earth/people/alopezalos) <br> [Corvin-Petrut Cobarzan](https://github.com/ecmwf-cobarzan)  <br> [Gionata Biavati](https://github.com/gbiavati) |
+| [**Visualizing CAMS data in the browser**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/2](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/8) | [Konstastinos Plataridis](https://github.com/KonstantinosPl) <br> [Yiannis Kontos](https://github.com/ykontos) <br> [Diamantis Karakatsanis](https://github.com/diamontkarakat) <br> Charis Stavridis <br> Nikolaos Xafoulis <br> Konstantinos Perifanos | [Maliko Tanguy](https://github.com/orgs/ECMWFCode4Earth/people/ecMaliko) <br> [Mariana Clare](https://github.com/mc4117) <br> [Cinzia Mazzetti](https://github.com/ecCinziaMazzetti) <br> [Gwyneth Matthews](https://github.com/GwynethMatthews) |
+| [**Fire Front Radar**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/6) | [Xenofon Karagiannis](https://github.com/xen0f0n) <br> [Georgios Begkas](https://github.com/gbegkas) <br> [Lucy Colley] <br> [Marina Caporlingua](https://github.com/capmar00) |  [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> [Joe Mc Norton] <br> [Christopher Barnard](https://github.com/enyfeo) <br> [Douglas Kelley] <br> [Mark Parrington](https://github.com/mparrington) |
+| [**EVALKIT: Model Error Detective**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/3) | Mihaela CAIAN <br> [Andrei Gherasim](https://github.com/andreig1089) <br> Adrian Berlic | [Mariana Clare](https://github.com/mc4117) <br> [Jesper Dramsch](https://github.com/JesperDramsch) <br> [Ana Prieto Nemesio](https://github.com/anaprietonem) <br> [Mario Santa Cruz López](https://github.com/JPXKQX) |
+| [**WEAVE – Weather-Energy Analysis & Visualisation for Extremes**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/15) | Stella Bourdin <br> Clément Devenet | [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> Laurent Dubus <br> Aron Zuicker <br> Laurens Stoop <br> Stefano Cordeddu <br> Alberto Troccoli |
+| [**Physics-Aware Consistency Evaluator (PACE)**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/9) | Martin Vozár <br> Peter Váš <br> Marek Rodný <br> Martin Petrovič <br> Milan Onderka | Michael Langguth <br> Erik Pavel <br> Sindhu Vasireddy <br> Ankit Patnala <br> Savvas Melidonis <br> Christopher Goddard |
+| [**OPEN DATA VISIO**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/7) | Alenka Senica | [Milana Vuckovic](https://github.com/milanavuckovic)  <br> Christopher Polster <br> Maartje Kuilman <br> Yigit Altintas |
 
-* [Challenge 10 - PolyView](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/1)
-* [Challenge 11 - EarthReach: making Earthkit plots accessible to the visually impaired with LLM-powered alt descriptions](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/2)
-* [Challenge 12 - ObsFinder: An interactive geo-selector for C3S observation data](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/4)
-* [Challenge 13 - PyroScope](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/6)
-* [Challenge 14 - GPU-accelerated interactive visualization of atmospheric composition forecasts](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/8)
-* [Challenge 15 - EU Climate Related Power System Challenges](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/15)
 
-<br>
 
-### [Stream 2 - Machine Learning for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=state%3Aopen%20label%3A%22Machine%20Learning%22)
-
-<br>
-
-* [Challenge 20 - DSS MLCosting for requests](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/12)
-* [Challenge 21 - ML-Driven Downscaling of Global Air Pollution Fields](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/13)
-* [Challenge 22 - Physical consistency in multi-variate Machine Learning applications for the Earth System](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/9)
 
 <br>
 
-### [Stream 3 - Software Development for Earth Sciences Applications](https://github.com/ECMWFCode4Earth/Challenges_2025/issues?q=state%3Aopen%20label%3A%22Software%20Development%22) 
-
-<br>
-
-* [Challenge 30 - EVALKIT: A unified tool for diagnosing forecast errors in IFS, ML Models, and high-resolution simulations](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/3)
-* [Challenge 31 - PolyShell](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/5)
-* [Challenge 32 - ECMWF Open Data Explorer](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/7)
-* [Challenge 33 - Data Stores plug-in for GIS](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/11)
-* [Challenge 34 - FireFlux: FRP-based emission calibration from small satellite constellations for emission estimation](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/10)
-* [Challenge 35 - Developing a Machine Learning-Based weather/climate Index for Compound Event Prediction in Renewable Energy Systems](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/14)
-
-<br>
 
 
 ## Browse the roadmap here below!
