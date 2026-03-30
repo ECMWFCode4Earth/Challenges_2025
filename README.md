@@ -11,7 +11,7 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 
 ## Code for Earth 2025 Projects
-Congratulations to the teams that have been selected to be part of Code for Earth 2025:
+Congratulations to all the teams that have been selected to be part of Code for Earth 2025:
 
 | Project title | Team | Mentors |
 | ---------- | --------------- | -------------- |
